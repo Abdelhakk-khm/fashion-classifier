@@ -68,7 +68,7 @@ conda activate fashion-classifier
 ```
 
 - **Python**: 3.10+
-- **CUDA**: Optional; runs on CPU or GPU (PyTorch 2.x)
+- **CUDA**: Optional; runs on CPU or GPU (PyTorch 2.x). Training on CPU is perfectly fine for this small dataset.
 
 ---
 
