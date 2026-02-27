@@ -141,6 +141,8 @@ Images are written to **`sample_images/`**.
 python -m pytest tests/ -v
 ```
 
+This runs unit tests for the data loaders and the `SmallResNet` model.
+
 ---
 
 ## Summary
